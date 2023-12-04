@@ -13,5 +13,7 @@ let averageScore: Double = 85.5 // Replace 85.5 with any decimal value
 
 // Printing the variables with descriptive messages
 print("Welcome Message: \(welcomeMessage)")
+
 print("User Age: \(userAge)")
+
 print("Average Score: \(averageScore)")
