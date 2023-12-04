@@ -1,3 +1,3 @@
 import UIKit
 
-var name = "Yüksel"
+var name = "X"
