@@ -1,7 +1,7 @@
 import UIKit
 
-let username = "adminn"
-let password = "password1234"
+let username = "admin"
+let password = "password123"
 
 //Create Login System
 
