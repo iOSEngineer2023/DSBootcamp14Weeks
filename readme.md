@@ -2,7 +2,7 @@
 
 ## Day 1: Types, Constants & Variables
 
-- [Challenge]([URL_FOR_DAY_1_CHALLENGE](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day1.playground/day01.pdf)
+- [Challenge](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day1.playground/day01.pdf)
 - [Solution](URL_FOR_DAY_1_SOLUTION)
 
 ## Day 2: Operators & Conditionals
