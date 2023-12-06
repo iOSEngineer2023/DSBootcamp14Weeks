@@ -12,7 +12,7 @@
 
 ## Day 3: More Conditionals
 
-- [Challenge](URL_FOR_DAY_3_CHALLENGE)
+- [Challenge](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day3.playground/day03.pdf)
 - [Solution](URL_FOR_DAY_3_SOLUTION)
 
 ## Day 4: Switches
