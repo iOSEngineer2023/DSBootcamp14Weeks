@@ -8,7 +8,7 @@
 ## Day 2: Operators & Conditionals
 
 - [Challenge](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day2.playground/day02.pdf)
-- [Solution](URL_FOR_DAY_2_SOLUTION)
+- [Solution](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day2.playground/Contents.swift)
 
 ## Day 3: More Conditionals
 
