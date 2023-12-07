@@ -18,7 +18,7 @@
 ## Day 4: Switches
 
 - [Challenge](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day4.playground/day04.pdf)
-- [Solution](URL_FOR_DAY_4_SOLUTION)
+- [Solution](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day4.playground/Contents.swift)
 
 ## Day 5: Optionals
 
