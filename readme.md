@@ -22,8 +22,8 @@
 
 ## Day 5: Optionals
 
-- [Challenge](URL_FOR_DAY_5_CHALLENGE)
-- [Solution](URL_FOR_DAY_5_SOLUTION)
+- [Challenge](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day5.playground/Contents.swift)
+- [Solution]()
 
 ## Day 6: Loops
 
