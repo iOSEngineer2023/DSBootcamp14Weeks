@@ -27,8 +27,8 @@
 
 ## Day 6: Loops
 
-- [Challenge](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day6.playground/Contents.swift)
-- [Solution](URL_FOR_DAY_6_SOLUTION)
+- [Challenge]
+- [Solution](https://github.com/iOSEngineer2023/DSBootcamp14Weeks/blob/main/day6.playground/Contents.swift)
 
 ## Day 7: Tuples
 
