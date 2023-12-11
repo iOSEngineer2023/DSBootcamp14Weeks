@@ -1,6 +1,5 @@
 import UIKit
 
-
 //Day 10: Challenge 1
 
 var movies = ["Oppenheimer", "Sakar Sakir", "Past Lives"]
